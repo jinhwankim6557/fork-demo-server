@@ -24,17 +24,18 @@ https://github.com/user-attachments/assets/2a8e99e6-34b0-4f75-8378-a561b71d2e34
 - **Description**: A scenario where the user directly issues a National ID VC using the app.
 
 ## 2. VC Issuance (App - National ID)
-https://github.com/user-attachments/assets/e9730f2b-e02a-4478-aa72-d972f16b316c
+
+https://github.com/user-attachments/assets/9d3f05f5-b505-4958-ba54-01318b561d7d
 - [VC Issuance_App_demo_sample(video)](videos/OpenDID_Demo_VCIssuance_App.mov)
 - **Description**: A scenario where the user directly issues a National ID VC using the app.
 
 ## 3. VC Issuance (Demo - Mobile Driver License)
-https://github.com/user-attachments/assets/d648d63e-419c-4eb4-92cc-36c13a935278
+https://github.com/user-attachments/assets/6ed3d1f7-e1d4-4e24-bf50-531597eb87a1
 - [ VC Issuance_Web_demo_sample(video)](videos/OpenDID_Demo_VCIssuance_Demo.mov)
 - **Description**: Demonstrates the scenario where the user receives a Mobile Driver License VC issuance request from the Demo site.
 
 ## 4. VP Submission
-https://github.com/user-attachments/assets/2bca0ec8-ce31-491f-a427-28062e50db50
+https://github.com/user-attachments/assets/86db4412-b85b-4f19-898c-58f2838b444f
 - [VP Submission_demo_sample(video)](videos/OpenDID_Demo_VPSubmission.mov)
 - **Description**: A scenario where the user submits a Verifiable Presentation (VP) through the app after receiving a VP submission request from the Demo site.
 
