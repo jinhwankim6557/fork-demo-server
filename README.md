@@ -29,15 +29,15 @@ https://github.com/user-attachments/assets/9d3f05f5-b505-4958-ba54-01318b561d7d
 - [VC Issuance_App_demo_sample(video)](videos/OpenDID_Demo_VCIssuance_App.mov)
 - **Description**: A scenario where the user directly issues a National ID VC using the app.
 
-## 3. VC Issuance (Demo - Mobile Driver License)
+## 3. VC Issuance (Demo - Mobile Employee ID Card)
 https://github.com/user-attachments/assets/6ed3d1f7-e1d4-4e24-bf50-531597eb87a1
 - [ VC Issuance_Web_demo_sample(video)](videos/OpenDID_Demo_VCIssuance_Demo.mov)
-- **Description**: Demonstrates the scenario where the user receives a Mobile Driver License VC issuance request from the Demo site.
+- **Description**: Demonstrates the scenario where the user receives a Mobile Employee ID Card VC issuance request from the Demo site.
 
 ## 4. VP Submission
 https://github.com/user-attachments/assets/86db4412-b85b-4f19-898c-58f2838b444f
 - [VP Submission_demo_sample(video)](videos/OpenDID_Demo_VPSubmission.mov)
-- **Description**: A scenario where the user submits a Verifiable Presentation (VP) through the app after receiving a VP submission request from the Demo site.
+- **Description**: Description: A scenario where the user receives a QR code request using their Mobile Employee ID Card, submits a Verifiable Presentation (VP) to gain access authorization, and proves certain information through ZKP (Zero-Knowledge Proof) without exposing some details.
 
 ## Folder Structure
 Overview of the major folders and documents in the project directory:
@@ -104,7 +104,7 @@ Libraries used in this project are organized into two main categories:
 
 1. **Open DID Libraries**: These libraries are developed by the Open DID project and are available in the [libs folder](source/did-demo-server/libs). They include:
 
-   - `did-crypto-sdk-server-1.0.0.jar`
+   - `did-crypto-sdk-server-2.0.0.jar`
 
 2. **Third-Party Libraries**: These libraries are open-source dependencies managed via the [build.gradle](source/did-demo-server/build.gradle) file. For a detailed list of third-party libraries and their licenses, please refer to the [dependencies-license.md](dependencies-license.md) file.
 
